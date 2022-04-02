@@ -1,3 +1,5 @@
+//Too lazy to modify, took it from placeDE bot, itself took it from placeNL bot...
+
 // ==UserScript==
 // @name         PlaceDE Bot
 // @namespace    https://github.com/PlaceDE/Bot
@@ -14,6 +16,8 @@
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
+
+const pattern_url = "http://theurl.com/pattern.json";
 
 // Sorry voor de rommelige code, haast en clean gaatn iet altijd samen ;)
 
